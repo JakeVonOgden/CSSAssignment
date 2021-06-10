@@ -1,0 +1,21 @@
+/* for project */
+    #number-one{
+        color: lawngreen;
+        font-style: normal;
+        border-style: ridge;
+        border-color: red;
+        font-size: 30px;
+        text-align: center;
+        border-width: 15px;
+        margin: 5px 5px 5px 5px;
+        padding: 2px 2px 2px 2px;
+        display: inline-block;
+        background-color: gray;
+    
+    }
+    .css-classes{
+        font-size: 45px;
+        font-style: oblique;
+        background-color: lightseagreen;
+
+    }
